@@ -1,0 +1,7 @@
+.master-view-container {
+    align-items: stretch;
+    height: 100%;
+}
+.row-layout {
+    display: flex;
+}
